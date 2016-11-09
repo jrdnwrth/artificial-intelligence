@@ -1,4 +1,4 @@
 Cause-Effect recognition
 ========================
 
-    After distilling 
+    After distilling, 
