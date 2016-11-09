@@ -21,7 +21,7 @@ Run through scenarios to see if they play out to our favor.
 1. This becomes a 'Mental Image'
 1. This mental image is stored.
 1. This mental image relates to at least one other mental image (a bowling gutter).
-1. Therefore the bowling gutter memory must have been saved in a similar location.
+1. Therefor, the bowling gutter memory must have been saved in a similar location.
 
 Interesting how the description of a ditch, and the real-life experience of a bowling gutter **find the same location in memory*.
 *Or are somehow related.  My theory is that that the real world experience is distilled into adjective-like components.
