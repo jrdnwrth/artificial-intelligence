@@ -1,6 +1,18 @@
 Terminology
 ===========
 
+**Theory**: 
+
+    A learned cause-->effect relationship.
+    It may or may not be true or accurate.
+
+**Model**
+
+    The mental representation of physical objects and theories.
+    This is a simplification* of the real world for processing and storage.
+    
+*'distilation', 'reduction', 'decomposition'
+
 **Sensory Reduction**: 
 
     Distilling complex input into simplified mental models for processing and storage.
@@ -33,6 +45,3 @@ However, the *sweeping* over/around the object method of distilling its essence 
     
     High Level: Always affected by, or part of, the decision making process.
 
-**Sensory Reduction**: 
-
-**Sensory Reduction**: 
