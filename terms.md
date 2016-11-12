@@ -1,6 +1,15 @@
 Terminology
 ===========
 
+**Emotions**:
+
+    These can be normal emotions like elation, boredom, frustration.
+    However, usually this term is used for something more specific,
+    For example, these are considered emotions: 
+        "pointy", "rough", "angular", "multiple", "floppy", "bright".
+    These are really just adjectives.  But describing them as emotions helps me.
+    Since adjectives are just the feelings an object gives us.
+
 **Theory**: 
 
     A learned cause-->effect relationship.
