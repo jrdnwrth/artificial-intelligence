@@ -19,6 +19,9 @@ An effect is anything that changed.
 Medium
 ===================
 
+### How are causes and effects different?
+Since it is often easy to confuse the two, are the the same?
+
 ### How is a face recognized from any angle?
 1. Curve theory.
 1. Variation in images tied to the unique feeling we have of the person.
