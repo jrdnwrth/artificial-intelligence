@@ -1,10 +1,18 @@
-Modeling
+The Model
 ========
 
 ### Summary
 
 >How one thinks. Simplifying the real-world into building blocks.  So we can design ideas. In pictures? Verbally?  
 Run through scenarios to see if they play out to our favor.
+
+### Purpose
+
+Many algorithms will be much more manageable applied to a simplified view of reality.
+Such as applying learned cause-effect theories to new objects.  I don't know how to write
+an algorithm to do that using purely raw data.  But if what we are viewing
+is already interpreted as a "long, small, object", then I can easilly apply the
+assumption that gravity will make it drop. 
 
 ### Curves  
     I am convinced that it comes down to curves.  2D or 3D (surfaces)?
