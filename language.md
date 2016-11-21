@@ -7,7 +7,7 @@ Language
 
 ### Breakdown
 
->These are my definitions. Not necessarilly english grammer**
+>These are my definitions. Not necessarily english grammar**
 
 **Noun**: Reference a type of object.
 

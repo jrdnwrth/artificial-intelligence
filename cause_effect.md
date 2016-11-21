@@ -37,7 +37,7 @@ Combining Theories
 ==================
 
 ### Adding Theories
-Prediction: Hit tamborine on table -> Hear both noises.
+Prediction: Hit tambourine on table -> Hear both noises.
 
 ### Subtracting Theories
 Prediction: Hit drumstick on pillow -> No sound.

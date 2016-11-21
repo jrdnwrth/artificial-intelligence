@@ -1,7 +1,7 @@
 Terminology
 ===========
 
-**Emotions**:
+**Emotions or Adjectives**:
 
     These can be normal emotions like elation, boredom, frustration.
     However, usually this term is used for something more specific,
