@@ -97,3 +97,18 @@ as well as the thrill of discovery and *new-ness*.
 
 Viewing/experiencing the object/adjective may also conjure full past memories of the object/adjective.
 
+Concave feeling
+===============
+
+    How is it created?  
+    
+Is this from the same mechanism that registers beauty?  It could be.
+For example, just as beauty is hardwired, a whole range of feeling 
+coulde be hard coded depending on the input.
+
+Or this could be similar to the curve feelings, but in 3 dimensions.
+
+Maybe the concave feeling is created by imagining yourself as an ant
+inside the concave cavity and feeling the walls all around us.  
+
+There is no rule that we have to imagine ourselves to-scale.
