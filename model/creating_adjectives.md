@@ -1,3 +1,5 @@
+My Modification
+
 Creating Adjectives
 ===================
 
@@ -97,14 +99,14 @@ as well as the thrill of discovery and *new-ness*.
 
 Viewing/experiencing the object/adjective may also conjure full past memories of the object/adjective.
 
-Concave feeling
+Concave Feeling
 ===============
 
     How is it created?  
     
 Is this from the same mechanism that registers beauty?  It could be.
 For example, just as beauty is hardwired, a whole range of feeling 
-coulde be hard coded depending on the input.
+could be hard coded depending on the input.
 
 Or this could be similar to the curve feelings, but in 3 dimensions.
 
