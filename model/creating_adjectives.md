@@ -1,5 +1,3 @@
-My Modification
-
 Creating Adjectives
 ===================
 
@@ -65,11 +63,11 @@ what we imagine it to be.  In other words, the distilled model* in our mind.
 This is also where we will recognize something as *new*, ie, a discovery. And enjoyable.
 
     *As a low level example, if I imagine that the reflection of an island in a lake is simply 
-    like a shadow, but more colorful, then it may seem boring. Not eliceting much emotion.
+    like a shadow, but more colorful, then it may seem boring. Not eliciting much emotion.
     But if I think of the reflection as the whole world existing upside-down beneath the 
     water's surface, then it may *feel* vastly more interesting.
 
-    As a high level example, this whole project of creating an AI is only intreguing because
+    As a high level example, this whole project of creating an AI is only intriguing because
     1. It has never been done before.
     2. I do not know the outcome.
     I am *imagining* (expecting) discovery.  
@@ -79,7 +77,7 @@ This is also where we will recognize something as *new*, ie, a discovery. And en
     
     One more example: Diamonds. If I saw a diamond, and did not know it was *real*, 
     then I may not take much note of it.  However, if I mentally register its rarity, 
-    it will posess a very different feeling.
+    it will poses a very different feeling.
 
 In infancy, success and control are rarely achieved.  So without beauty and discovery,
 every experience would leave a "bad taste in our mouth".  Which would then be tied to the 
