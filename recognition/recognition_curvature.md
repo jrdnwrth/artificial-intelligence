@@ -18,15 +18,21 @@ the circle, this makes a point.  The motion of these points is what
 we register and is what we use to remember and recognize like-objects.
 
 For example: A picture frame is a square. All squares viewed by this method
-will appear as one point that splits into two, which diverge and come back
+will appear as one point that splits into two, which diverge then comes back
 at a steady rate.
 
 Note that this happens for every frame. 
 
-There are other versions that may work as well. For example
-don't use a circle, but use eye movement
+There are other versions that may work as well:
+1. don't use a circle, but use eye movement. 
+1. Or, start a point at the closest corner of the object
+to the center of our field of view (or field of focus)
+and draw a circle that grows bigger.   Where it crosses
+the edges of the object place points.  Track the points movement.
+
+* A 3D version of this should probably run simultaneously.
 
 
-A 3D version of this should probably run simultaneously.
+
 
 
