@@ -13,5 +13,17 @@ To reference another topic do `[terms](terms.md)`
 
 To (re)define a word, place it in the terms.md file.
 
+Typically, I use a series of examples and conclusions when probing for answers:
+
+### Examples
+
+    given some situation
+    this is the outcome
+
+### Conclusions
+
+    and this is why it works that way
+
+
 Consider moving this to a Wiki.
 
