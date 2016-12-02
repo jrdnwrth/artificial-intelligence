@@ -90,6 +90,11 @@ Motivating.  Maybe relates to walking pace.
 * Which came first, vocal inflection, or music?
 * (Assuming one is mimicking the other)
 
+##### Next Steps
+* Solve the questions above.
+* List the feelings (adjective) that music can produce.
+    * Find correlations: Are they all physical? Hard-wired? Vocal? Primitive? Abstract/Concrete?
+
 
 
 
