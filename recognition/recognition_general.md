@@ -37,13 +37,3 @@ on a 16x16 pixel reduction of the image, then 32x32.  Like mip-mapping.
 Visual input only needs to be full-resolution in the center of the image, 
 where we are looking.
 
-Test Case
-=========
-
-Take a robot with 2 wheels.
-Mount a camera on its belly facing down.
-Place it on a famous painting.
-Teach it beauty.
-It will not know how to use the wheels, it has to learn this.
-
-Its motivators will be beauty and discovery.
