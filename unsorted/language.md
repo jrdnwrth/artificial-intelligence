@@ -3,7 +3,7 @@ Language
 
 ### Description
 1. This can be any form of communication, not just verbal. Remember Helen Keller.
-2. It is also a way to organize thoughts.  "Thinking out loud."
+1. I think language is critical for organizing thoughts.  "Thinking out loud."
 
 ### Breakdown
 
