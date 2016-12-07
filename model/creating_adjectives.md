@@ -15,6 +15,7 @@ Movement plays a big part in recognition and generating adjectives.
 
 Beauty and Motivation
 =====================
+Beauty is a longing or desire, not a satisfaction.
 
 Beauty is unexplainable.  Some things we like because of reasons.
 Somethings we like because we like them.  They are **hard-wired**.
