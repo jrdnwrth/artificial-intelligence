@@ -38,5 +38,44 @@ we have distilled the experiences.  The real question is: "What is the distilled
 
 Shapes?  Sounds?  Feelings?  Probably a combo of curvature and emotional recognition.
 
+The Model and The Senses
+====================
+We create a mental model to form ideas and solve problems.
+
+Hopefully, the model we create uses all our sense with great detail. Remember the study-skills
+exercise to imagine "There is a horse and you."
+
+The model, like all experiences, is remembered by its senses, feelings, and intensity.
+
+The more specific the model, the longer until it is forgotten.
+Meaning we can attach more mental models together before they fall apart (are forgotten).
+
+The Model and Language
+======================
+Remember Helen Keller needed language. Almost equating it with consciousness. Even though she
+could still learn and play games prior to language.  Interesting...
+    
+### For Remembering the Model
+For this same reason (remembering the model), I like writing my thoughts.  Especially when
+I didn't get much sleep (or the subject is boring) and my train of thought keeps derailing.
+
+### For Forming(Solidifying) the Model
+Words help form mental models.
+
+##### Example 1: 
+    If I say "Each account is tied to many services.", then the word "tied" triggers (solidifies)
+    the idea of a bunch of ropes connected to an account with services at the other end.
+    
+##### Example 2: 
+    During a meeting, someone used (and defined) the term "greenfield".  They used it to 
+    refer to a plan that involved 'rebuilding the current system from scratch', as apposed
+    to developing a new and unique system.  The new term was used throughout the rest of 
+    the meeting.  In this example, the model is not useful for simulating, but it is very good
+    at bookmarking the idea that was presented.  Like a handle we could all use.  A name.
+    It made it memorable (by being a visual stimulating) with enough similarities to the
+    actual idea that we could remember what it refered to.
+
+
+
 
 

@@ -8,6 +8,9 @@ Pillars:
 * Memory Map
 * Language
 
+Just copy my thought process as much as possible.
+But don't be afraid to cheat by simplifying.
+
 Format
 ======
 
