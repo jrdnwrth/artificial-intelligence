@@ -99,9 +99,9 @@ One more example of giving low level permission to guess: driving on the highway
 We can tell our low level brain to stay on the main highway and avoid other cars.
 It will ignore exits, etc.
 
-    Somehow the high level brain sets the threashold and subjects
+    Somehow the high level brain sets the threshold and subjects
     for when the low level should inform it to pay attention.
-    I'm guessing guys leave their threashold pretty high.
+    I'm guessing guys leave their threshold pretty high.
 
 
 
