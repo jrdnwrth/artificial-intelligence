@@ -10,6 +10,7 @@ Pillars:
 
 Just copy my thought process as much as possible.
 But don't be afraid to cheat by simplifying.
+Even try a few algorithms that are not based on how we think.
 
 Format
 ======
