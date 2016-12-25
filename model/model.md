@@ -73,8 +73,14 @@ Words help form mental models.
     the meeting.  In this example, the model is not useful for simulating, but it is very good
     at bookmarking the idea that was presented.  Like a handle we could all use.  A name.
     It made it memorable (by being a visual stimulating) with enough similarities to the
-    actual idea that we could remember what it refered to.
+    actual idea that we could remember what it referred to.
 
+Multiple Stimuli can result in the Same Model
+=============================================
+Example 1: E and e are nearly the same in my mind: even though they look completely different.
+
+Example 2: A person's face from the front looks entirely different than from the side.
+But we think of the same person.
 
 
 

@@ -11,6 +11,8 @@ Yes.  The trick is to recognize the variation of activities which are considered
 Lets come up with a definition
 
 ### Define creative
+"output"
+ 
 I'm defining it very broadly.  There may be a time to come back and 
 clarify between "artistic", and "creative".  
 
@@ -24,5 +26,5 @@ All of these fall under 'creative':
     * Achieving better times.  Building muscle.  Lifting more. Climbing higher.
     * I don't think this counts as creativity if you are just maintaining.
 * Learning new things?
-    * I'm not sure this counts.  Unless you are able to demonstrate it.  
+    * This counts if you are able to demonstrate the new learning.
       It needs to feel concrete.
