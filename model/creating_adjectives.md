@@ -125,6 +125,7 @@ I think these are hard-wired into people:
     But we also like to dominate the strong. 
     We want to be important/valued in other people's eyes.
     
+##### Definitions
 * Discovery: Learning/experiencing something new. Out of the ordinary.
 * Beauty: Any external stimuli that stimulates emotion. Usually positive. Sunset. Music. Fireworks.
 * To Create: I left my mark on the world. I turned something ordinary into something beautiful or interesting (aka "new" aka "discovery")
@@ -133,14 +134,14 @@ I think these are hard-wired into people:
 * Dominance: I want power/control/popularity/respect/attention/success etc. 
 
 ### FAQ
-Q: I just want more money.
-A: "More money" meaning relative to the next guy? You just want more respect. AKA "dominance"
+    I just want more money.
+"More money" meaning relative to the next guy? You just want more respect. AKA "dominance"
 
-Q: I feel bored. What does that mean?
-A: Probably you are tired, or you don't want to do what you are supposed to be doing.
+    I feel bored. What does that mean?
+Probably you are tired, or you don't want to do what you are supposed to be doing.
 
-Q: Why do people enjoy watching sports?
-A: Empathy and Dominance: They choose a player. They are that player. That player's successes are their successes. 
+    Why do people enjoy watching sports?
+Empathy and Dominance: They choose a player. They are that player. That player's successes are their successes. 
 When the player dominates, they dominate. They buy the same jersey. They make a party and 
 share it with others, so that it seems more real. Its weird. 
 
@@ -192,7 +193,7 @@ I'm convinced that its just chemical drugs produced in the brain, determined by:
 ### Motivations - Long Term
 Why do we get out of bed in the morning?
 
-####Naturalistic View:
+#### Naturalistic View:
 It is neither good nor bad to get out of bed. People who are motivated to live and reproduce are no
 better than those who chose not to.  They are simply the ones who are still here.
 
