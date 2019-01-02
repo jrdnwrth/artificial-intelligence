@@ -98,6 +98,107 @@ as well as the thrill of discovery and *new-ness*.
 
 Viewing/experiencing the object/adjective may also conjure full past memories of the object/adjective.
 
+Human Motivation - (put this in a separate file)
+=========================
+### Motivations in *daily* life
+Note that these are only effective when shared with others.  
+Put a person in indefinite isolation and their motivation is extinguished. 
+(Even the hope of eventually sharing with others is enough to keep going.)
+
+I think these are hard-wired into people:
+
+1. discovery and beauty
+
+    Beauty is often "seeing something new, rare, or in a new light".  New implies discovery.
+    I don't know if beauty is ever found separate from the sense of discovery.
+
+2. to create and perfect
+
+    We get satisfaction out of improving something.
+    Or making it from scratch.
+    Or finding the most elegant/efficient/impressive solution to a problem.
+    Or perfecting a skateboarding trick.
+    
+3. empathy vs dominance
+                        
+    We like to lift up the weak/poor. We want everyone to be happy. 
+    But we also like to dominate the strong. 
+    We want to be important/valued in other people's eyes.
+    
+* Discovery: Learning/experiencing something new. Out of the ordinary.
+* Beauty: Any external stimuli that stimulates emotion. Usually positive. Sunset. Music. Fireworks.
+* To Create: I left my mark on the world. I turned something ordinary into something beautiful or interesting (aka "new" aka "discovery")
+* To Perfect: Discovering the maximum potential of something or someone or myself. (Note the word "discovering")
+* Empathy: Mirror neurons. I see that person as myself, and feel their feelings. This include child-rearing.  I want someone to be happy.
+* Dominance: I want power/control/popularity/respect/attention/success etc. 
+
+### FAQ
+Q: I just want more money.
+A: "More money" meaning relative to the next guy? You just want more respect. AKA "dominance"
+
+Q: I feel bored. What does that mean?
+A: Probably you are tired, or you don't want to do what you are supposed to be doing.
+
+Q: Why do people enjoy watching sports?
+A: Empathy and Dominance: They choose a player. They are that player. That player's successes are their successes. 
+When the player dominates, they dominate. They buy the same jersey. They make a party and 
+share it with others, so that it seems more real. Its weird. 
+
+### If these motivations are hardwired, how are they determined?
+I'm convinced that its just chemical drugs produced in the brain, determined by:
+
+1. Sleep and Exercise 
+
+    This is number 1 for a reason.
+    I've found that when nothing sounds fun, it means that I need to go to sleep. 
+
+1. Genetics 
+
+    Anyone with children can attest to this.  People just feel different.
+
+1. Food and Drugs
+
+    Don't eat soy.
+
+1. Skills, Perceived Success, Encouragement
+
+    Am I doing something that I could enjoy, if it were going my way?
+    I expect that even plumbing a house would be fun if I felt 
+    like I was really good at it and had the tools.
+
+1. Historical Dispositions
+
+    If you've had bad experiences with swimming as a sport, then you probably wont like it.
+    So don't expect to be motivated to do a charity swim.
+    
+1. Luck 
+
+    Are all your co-workers illiterate when it comes to programming, so they think you have magical powers?
+    Or do you work with experts and lag behind them endlessly?
+    Some situations set us up for success.  Some don't.
+    
+1. Self-Talk
+
+    Be on your own side.
+    
+1. The Feedback Loop
+
+    If I loath my job, then I will drag out the evening so tomorrow doesn't come.
+    Meaning I don't get the sleep I need and tomorrow is harder than it should be.
+    
+    If I am on a role and making progress on a project, then I am encouraged and
+    don't look for distractions or escapes.  My energy and efficiency remain high.
+
+### Motivations - Long Term
+Why do we get out of bed in the morning?
+
+####Naturalistic View:
+It is neither good nor bad to get out of bed. People who are motivated to live and reproduce are no
+better than those who chose not to.  They are simply the ones who are still here.
+
+#### Religious View:
+To get to heaven. Obedience to God out of gratitude for his love.
+
 Concave Feeling
 ===============
 

@@ -21,10 +21,20 @@ Music:  Actions performed for the sound.
 
 ### Song stuck in head
 
+Some people listen to music as they work. Before MP3 players, 
+you would simply play the songs in your head.
+This may also be the canvas for composers.
+    
+This works better than listening to an MP3 because it can not distract you.
+As soon as your high brain is engaged in something else the music may switch off;
+Or it can keep playing if the low brain knows the song well enough.
+When the low brain is playing the song, it tends to repeat the most well-known sections.
+This does not explain why the high brain picks up the tune once it is done thinking.
+Or does it?  Are we just listening to the low brain?  Probably.
+
 Factors that increase the likelihood that it will get stuck:
 
 1. Simple
-    1. 
 1. We know it well
 1. It is emotionally stimulating. (Good or bad - irritating or exhilarating)
 1. Flowing (Not too choppy. Not too much variation)
@@ -35,6 +45,7 @@ Factors that increase the likelihood that it will get stuck:
     
     The effect: Like any music, it sets the atmosphere.
     This can be positive if it has a motivating rhythm.
+    Or calming, etc.
     
    
 ### High or Low Level?
