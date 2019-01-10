@@ -137,6 +137,11 @@ I think these are hard-wired into people:
     I just want more money.
 "More money" meaning relative to the next guy? You just want more respect. AKA "dominance"
 
+    I just want to collect more lumber. It feels good to have it.
+"Because it opens up possibilities to 'create' things?  Because it is beautiful?  
+Because it is rare? (Discovery).  Because it makes us valuable?  These are my root motives.
+All of these reasons are covered above."
+
     I feel bored. What does that mean?
 Probably you are tired, or you don't want to do what you are supposed to be doing.
 
