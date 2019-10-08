@@ -38,6 +38,25 @@ we have distilled the experiences.  The real question is: "What is the distilled
 
 Shapes?  Sounds?  Feelings?  Probably a combo of curvature and emotional recognition.
 
+Pragmatism
+==========
+This is overly philosophical, but pretty close to what I am doing:
+https://en.wikipedia.org/wiki/Pragmatism
+"Consider the practical effects of the objects of your conception. 
+Then, your conception of those effects is the whole of your conception of the object."
+    
+    Means a "Cliff" is actually a "Falling off place."
+    Or maybe a "Cup" is a "liquid holder".
+    Or maybe a "Car" is a "self-propelled, stearable, people transporter"
+    
+Basically a thing *is* what it *does*.
+
+This does not seem to be the only way we think.  But it emphasises the main emotion tied
+to objects.  And it explains why creating abstract solutions is so easy; for example, if
+we need to hold water, we don't require an object called "cup". Rather we need something
+that fulfills the feeling of "liquid holder".  It could be a recess in the floor.  Or a 
+concave leaf.
+
 The Model and The Senses
 ====================
 We create a mental model to form ideas and solve problems.
